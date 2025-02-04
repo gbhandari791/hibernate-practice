@@ -48,7 +48,7 @@ The aim is to provide clear examples and help anyone looking to understand Hiber
            <property name="hibernate.connection.username">yourusername</property>
            <property name="hibernate.connection.password">yourpassword</property>
        </session-factory>
-   </hibernate-configuration>
+   </hibernate-configuration>```
 
 ### 3. **Running the Project:**
    - Once the **MySQL** database is set up, you can run individual examples from the project to see how **Hibernate ORM** works in practice.
