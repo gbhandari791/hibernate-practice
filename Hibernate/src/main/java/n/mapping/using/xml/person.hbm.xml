@@ -1,0 +1,12 @@
+<!DOCTYPE hibernate-mapping SYSTEM "/Gaurav/Personal/Learning%20Teach/Hibernate/Hibernate/src/main/resources/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="n.mapping.using.xml.Person">
+		
+		<id name="id" column="p_id">
+			<generator class="native"></generator>
+		</id>
+		<property name="name" column="p_name" type="string"></property>
+		<property name="add" column="p_add" type="string"></property>
+	</class>
+</hibernate-mapping>
