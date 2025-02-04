@@ -49,3 +49,10 @@ The aim is to provide clear examples and help anyone looking to understand Hiber
            <property name="hibernate.connection.password">yourpassword</property>
        </session-factory>
    </hibernate-configuration>
+
+### 3. **Running the Project:**
+   - Once the **MySQL** database is set up, you can run individual examples from the project to see how **Hibernate ORM** works in practice.
+
+### 4. **Notes & Learnings:**
+   I’ve also documented my **learning journey** with handwritten notes that cover all these concepts. Feel free to explore them:   
+   You can find them in the `Hibernate/notes/` folder in this repository.
